@@ -39,7 +39,7 @@
         height: 50px;
     }
 }
-@media (max-width : 585.6px){
+@media (max-width : 585px){
     #display{
         width:6.7em;
     }
